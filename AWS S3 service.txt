@@ -1,0 +1,31 @@
+*******************
+S3 SERVICE on AWS
+*******************
+
+HOW TO CREAT BUCKET ON AWS S3 SERVICE 
+---------------------------------------
+
+BUCKET IS FOLDER OR DIRECTORY WITH DNS RESOLUTION.
+IT SHOULD BE UNQIUE AROUND THE GLOBE.
+
+*FOR PROVISIONING THE BUCKET
+
+click on create Bucket
+then for uploading object(file/folder)
+click on add file/add folder
+click on upload
+
+permission
+----------
+for public acces to your object click on chekbox and unchek it 
+
+------------------------------------------------------------------
+
+versioning
+----------
+if you want somekind of backup for your data then enble it
+versiong is use to avoid overrite to same name of file.
+
+object lock
+------------
+its prevent your data from accidental file deletion
